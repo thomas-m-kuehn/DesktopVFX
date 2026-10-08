@@ -426,3 +426,9 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+External/dxc/dxcompiler.dll
+External/dxc/dxil.dll
+External/dxc/LICENSE-LLVM.txt
+External/dxc/LICENSE-MIT.txt
+External/dxc/LICENSE-MS.txt
+External/dxc/README.md
